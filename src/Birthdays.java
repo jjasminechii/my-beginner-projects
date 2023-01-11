@@ -1,3 +1,4 @@
+package src;
 // Jasmine Chi
 // This program calculates the absolute day that birthday with a certain day and month
 // would fall on, calculates when the next birthday is in and calculates which
