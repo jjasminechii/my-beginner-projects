@@ -1,6 +1,4 @@
 // Jasmine Chi
-// AP CS P4 Peterson
-// Chapter 4 Birthday Project, November 17th 2020
 // This program calculates the absolute day that birthday with a certain day and month
 // would fall on, calculates when the next birthday is in and calculates which
 // birthday is sooner and then prints a fun fact
