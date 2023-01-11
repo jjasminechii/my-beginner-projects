@@ -1,5 +1,6 @@
-// Jasmine Chi, AP CS Peterson P4
-// Programming Assignment #2
+package src;
+// Jasmine Chi
+// This program creates a scaleable Space Needle!
 
 public class SpaceNeedle {
 

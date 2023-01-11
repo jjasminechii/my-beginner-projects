@@ -1,8 +1,7 @@
+package src;
 
-// Jasmine Chi, APCS Peterson P4
-// Chapter 3 Project Part A
+// Jasmine Chi
 
-//imports java.util package
 import java.util.*;
 
 public class Greetings {

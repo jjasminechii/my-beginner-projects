@@ -1,4 +1,5 @@
-// Jasmine Chi, AP CS Peterson
+package src;
+// Jasmine Chi
 // Text Processing Activity
 
 public class TextProcessor {

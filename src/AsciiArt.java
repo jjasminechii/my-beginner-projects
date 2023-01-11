@@ -1,5 +1,6 @@
-// Jasmine Chi, AP CS Peterson P4
-// Programming Assignment #2
+package src;
+// Jasmine Chi
+// Making a cute little garden
 
 public class AsciiArt {
 

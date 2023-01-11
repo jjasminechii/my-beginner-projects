@@ -1,5 +1,5 @@
-// Jasmine Chi, AP CS Peterson
-// Chapter 3 Project Part B
+package src;
+// Jasmine Chi
 // This program uses initial investment, annual deposit, 
 // interest rate, and number of years to calculate interest 
 // on a savings account compounded annually
